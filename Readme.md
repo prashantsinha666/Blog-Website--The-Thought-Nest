@@ -3,6 +3,8 @@
 **The Thought Nest** is a clean, responsive blog layout built using **HTML** and **CSS**. It’s perfect for displaying a grid of blog cards with author details, category tags, and smooth hover interactions.
 
 ---
+## live Demo
+https://prashantsinha666.github.io/Blog-Website--The-Thought-Nest/
 
 ## ✨ Features
 
